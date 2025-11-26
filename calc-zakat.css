@@ -1,0 +1,55 @@
+ body {
+ font-family: Arial, sans-serif;
+ background: #f1f1f1;
+ }
+
+
+ .kontainer {
+ background: white;
+ max-width: 340px;
+ margin: 35px auto;
+ padding: 22px;
+ border-radius: 10px;
+ text-align: center;
+ }
+
+
+ input, button {margin: 7px 0;
+ padding: 8px;
+ font-size: 1em;
+ width: 85%;
+ border-radius: 4px;
+ }
+
+
+ button {
+ background: #4097db;
+ color: white;
+ border: none;
+ cursor: pointer;
+ }
+
+
+ #hasil {
+ margin-top: 13px;
+ font-weight: bold;
+ color: #22558a;
+ }
+
+
+ #history {
+ margin-top: 10px;
+ text-align: left;
+ font-size: .96em;
+ color: #444;
+ }
+
+ 
+ h3 {
+ margin-top: 18px;
+ margin-bottom: 2px;
+ color: #22558a;
+ font-size: 1.09em;
+ }
+
+ 
